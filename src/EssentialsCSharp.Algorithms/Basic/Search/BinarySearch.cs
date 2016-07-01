@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EssentialsCSharp.Algorithms.Basic.Sort
+namespace EssentialsCSharp.Algorithms.Basic.Search
 {
     public static class BinarySearch
     {
