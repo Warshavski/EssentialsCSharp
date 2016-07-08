@@ -43,7 +43,8 @@ namespace EssentialsCSharp.Console.App
             System.Console.WriteLine("Before sort : ");
             PrintArray<int[]>(array);
 
-            BasicSort<int>.InsertionSort(array);
+            //BasicSort<int>.InsertionSort(array);
+            ShellSort.Sort<int>(array);
             System.Console.Write(Environment.NewLine + "--------------" + Environment.NewLine);
 
             System.Console.WriteLine("Afer sort : ");

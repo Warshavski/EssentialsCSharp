@@ -42,6 +42,7 @@
     <Compile Include="Basic\Search\BinarySearch.cs" />
     <Compile Include="Basic\Search\LinearSearch.cs" />
     <Compile Include="Basic\Sort\BasicSort.cs" />
+    <Compile Include="Basic\Sort\ShellSort.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
